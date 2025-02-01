@@ -7,7 +7,7 @@ I'm an adaptable and analytical software developer with a passion for building s
 ## 💻 Tech Stack  
 - **Programming Languages:** Java, JavaScript, HTML, CSS  
 - **Frameworks:** Spring Boot, Spring MVC  
-- **Databases:** MySQL, SQL  
+- **Databases:** MySQL, SQL 
 - **Tools & Technologies:** JDBC, REST APIs  
 
 ## 🌱 What I'm Working On  
@@ -16,10 +16,6 @@ Previously, I designed and implemented a **Product Enrollment Web Application** 
 
 ## 📫 Let's Connect!  
   - **LinkedIn:** [https://www.linkedin.com/in/yagnamurthy-saikeerthi/]  
-  
----
-
-⭐️ *Star this repo if you like my profile!* 🚀
 
 
 
