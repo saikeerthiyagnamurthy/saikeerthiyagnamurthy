@@ -13,9 +13,7 @@ I'm an adaptable and analytical software developer with a passion for building s
 ## 🌱 What I'm Working On  
 Currently, I'm providing **technical support and troubleshooting for Java applications**, ensuring seamless user experiences.  
 Previously, I designed and implemented a **Product Enrollment Web Application** using **Spring MVC and MySQL**.  
-
-## 📫 Let's Connect!  
-  - **LinkedIn:** [https://www.linkedin.com/in/yagnamurthy-saikeerthi/]  
+ 
 
 
 
