@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Keerthi! 👋  
 
-<!--
-**saikeerthiyagnamurthy/saikeerthiyagnamurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Java Developer | Spring Boot Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+I'm an adaptable and analytical software developer with a passion for building scalable applications and solving complex problems. With expertise in **Java, Spring Boot, SQL, and web development**, I strive to create efficient and user-friendly solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+- **Programming Languages:** Java, JavaScript, HTML, CSS  
+- **Frameworks:** Spring Boot, Spring MVC  
+- **Databases:** MySQL, SQL  
+- **Tools & Technologies:** JDBC, REST APIs  
+
+## 🌱 What I'm Working On  
+Currently, I'm providing **technical support and troubleshooting for Java applications**, ensuring seamless user experiences.  
+Previously, I designed and implemented a **Product Enrollment Web Application** using **Spring MVC and MySQL**.  
+
+## 📫 Let's Connect!  
+  - **LinkedIn:** [https://www.linkedin.com/in/yagnamurthy-saikeerthi/]  
+  
+---
+
+⭐️ *Star this repo if you like my profile!* 🚀
+
+
+
+
+
+
